@@ -12,11 +12,12 @@ if( isset($_POST['download']) ){
 	
 	try{
 		$options['suppress'] = 'transmission';
-		new Csv($result,'my_cars_csv.csv',$options);
+		new Csv($result,'my_cars_csv2.csv',$options);
 	}catch( Exception $e ){
 		$error = $e->getMessage();
 	}
 }
+
 ?>
 <!doctype html>
 <html>

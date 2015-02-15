@@ -1,0 +1,72 @@
+MAKE: Toyota
+YEARMADE: 2010
+MILEAGE: 116626
+PRICE: 10554.00
+DESCRIPTION: Red Camry in good running condition. Sound electrics and bodywork. Clean interior, appears never to have been smoked in.
+
+MAKE: Chevrolet
+YEARMADE: 2011
+MILEAGE: 34256
+PRICE: 12000.00
+DESCRIPTION: Dark gray Malibu. Interior and bodywork in good condition. Low mileage.
+
+MAKE: Honda
+YEARMADE: 2011
+MILEAGE: 27345
+PRICE: 14000.00
+DESCRIPTION: Dark gray Civic. Only one owner, very low mileage. Great fuel economy.
+
+MAKE: Fiat
+YEARMADE: 2012
+MILEAGE: 19361
+PRICE: 14553.00
+DESCRIPTION: Yellow Fiat 500 POP. Immaculate interior and bodywork. Electrics in perfect order. Tires only slightly worn.
+
+MAKE: Nissan
+YEARMADE: 2012
+MILEAGE: 35000
+PRICE: 15550.00
+DESCRIPTION: Tan Altima. Low mileage. Excellent condition.
+
+MAKE: Fiat
+YEARMADE: 2012
+MILEAGE: 5238
+PRICE: 16050.00
+DESCRIPTION: Pearl white Fiat 500 sport hatchback. Power glass sunroof and power windows. Only one owner.
+
+MAKE: Chrysler
+YEARMADE: 2012
+MILEAGE: 7834
+PRICE: 16560.00
+DESCRIPTION: White Chrysler 200 with black interior. Exceptionally low mileage 
+
+MAKE: Nissan
+YEARMADE: 2010
+MILEAGE: 32791
+PRICE: 20505.00
+DESCRIPTION: Red Pathfinder 4WD. Only one owner. Nicely equipped with just about every feature you could want, including third-row seats.
+
+MAKE: Chevrolet
+YEARMADE: 2012
+MILEAGE: 517
+PRICE: 20755.00
+DESCRIPTION: Demo model that's hardly been out on the road, this red Chevrolet Cruze is just a dream, with just about every option you could ask for. Great fuel economy, too.
+
+MAKE: Hyundai
+YEARMADE: 2012
+MILEAGE: 9811
+PRICE: 24554.00
+DESCRIPTION: Silver Genesis with beige leather and wood trim interior. Great handling and comfort. Low, low mileage. Luxury at an affordable price.
+
+MAKE: BMW
+YEARMADE: 2011
+MILEAGE: 33784
+PRICE: 25904.00
+DESCRIPTION: White 3 Series 328i. Low mileage. Bodywork in mint condition. AM/FM stereo, trip computer, power sunroof.
+
+MAKE: BMW
+YEARMADE: 2011
+MILEAGE: 24694
+PRICE: 26951.00
+DESCRIPTION: Space grey BMW 3 series with beige leather interior. BMW Factory Certified with a 6 year/100,000 mile warranty from in-service date.
+

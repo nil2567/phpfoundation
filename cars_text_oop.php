@@ -13,13 +13,21 @@ if( isset($_POST['download']) ){
 	try{
 		$options['suppress'] = 'car_id, transmission';
 		$options['labelcase'] = 'strtoupper';
-
-		new Text($result,'MyFile.txt',$options);
+		$options['local'] = true;
+		$saved = new Text($result,'includes/MyFile.txt',$options);
+		
+		if( !$saved ){
+			$error = 'Problem writing local file!';
+		}else{
+			$error = 'All went well!';
+		}
 	} catch (Exception $e){
 		$error = $e->getMessage();
 	}
 }
 
+//reset pdo
+$result = $db->query($sql);
 
 ?>
 <!doctype html>
